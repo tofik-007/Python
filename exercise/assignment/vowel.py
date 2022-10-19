@@ -1,3 +1,4 @@
+#program to count vowel and constant from thr string
 s = input("enter a string to count it's vowel and constant : ")
 vowel,constant,space = 0,0,0
 for i in s:
