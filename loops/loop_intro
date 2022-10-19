@@ -1,0 +1,9 @@
+In general, statements are executed sequentially:
+The first statement in a function is executed first, followed by the second, and so on. 
+There may be a situation when you need to execute a block of code several number of times.
+Programming languages provide various control structures that allow for more complicated execution paths.
+
+types of loop in python
+i) while loop
+ii) for loop
+iii) nested loops
