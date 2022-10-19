@@ -1,3 +1,4 @@
+#program to convert digit number to words
 import num2words
 n = int(input("enter your age : "))
 print("your age is :",num2words.num2words(n)) 
