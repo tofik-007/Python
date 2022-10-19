@@ -1,3 +1,4 @@
+#startwith,endswith methods
 str = input("enter a string : ")
 s = input("enter a word to find weather the string starts with it or not : ")
 print ("weather the string starts with ",s,"or not? ",str.startswith( s ))
