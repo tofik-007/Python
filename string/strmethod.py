@@ -1,3 +1,4 @@
+#str method of upper lower title  & capitalize
 str = input("enter a string : ")
 print("title method to make 1st letter capital of every word in string : ",
       str.title())  # "str.title() makes 1st letter of every word capital : ",
