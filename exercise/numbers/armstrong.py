@@ -1,3 +1,4 @@
+#programm to check if the numner is armstrong or not
 print("armstrong number : every digit's power(length) is equal to number it self ")
 n = int(input("enter a mumber to check if it's a armstrong number or not? ")) 
 s = n 
